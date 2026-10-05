@@ -22,4 +22,3 @@ Cella 1 non viene eseguita
 ### Quale delle quattro celle produrrebbe un errore se il notebook venisse eseguito dall'alto in basso da un kernel appena avviato, e con quale messaggio esatto
 
 - Sempre la cella 3: NameError: name 'aula' is not defined
-
